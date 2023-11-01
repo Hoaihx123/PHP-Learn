@@ -1,1 +1,1 @@
-# Students-PHP
+# simple student management website with PHP
